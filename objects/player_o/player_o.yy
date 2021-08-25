@@ -68,7 +68,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "player_ship",
+  "name": "player_o",
   "tags": [],
   "resourceType": "GMObject",
 }
