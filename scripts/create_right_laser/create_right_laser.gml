@@ -10,3 +10,4 @@ var _y = y + lengthdir_y(_distance, image_angle - _angle) + vspeed;
 	_laser.speed = 8;
 	_laser.image_angle = image_angle;
 }
+// right laser 
