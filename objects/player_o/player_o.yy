@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_ship_power",
+    "path": "objects/obj_ship_power/obj_ship_power.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -62,7 +65,10 @@
         "GMRoom",
       ],"resourceVersion":"1.0","name":"friction_amount","tags":[],"resourceType":"GMObjectProperty",},
   ],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"max_armor","path":"objects/obj_ship_power/obj_ship_power.yy",},"objectId":{"name":"obj_ship_power","path":"objects/obj_ship_power/obj_ship_power.yy",},"value":"4","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"armor","path":"objects/obj_ship_power/obj_ship_power.yy",},"objectId":{"name":"obj_ship_power","path":"objects/obj_ship_power/obj_ship_power.yy",},"value":"4","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",

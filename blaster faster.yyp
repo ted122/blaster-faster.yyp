@@ -1,7 +1,8 @@
 {
   "resources": [
     {"id":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"order":1,},
-    {"id":{"name":"armor","path":"sprites/armor/armor.yy",},"order":3,},
+    {"id":{"name":"obj_ship_power","path":"objects/obj_ship_power/obj_ship_power.yy",},"order":12,},
+    {"id":{"name":"armor1","path":"sprites/armor1/armor1.yy",},"order":3,},
     {"id":{"name":"button_strip_2","path":"sprites/button_strip_2/button_strip_2.yy",},"order":5,},
     {"id":{"name":"enmy_laser","path":"sprites/enmy_laser/enmy_laser.yy",},"order":7,},
     {"id":{"name":"enemy_1","path":"sprites/enemy_1/enemy_1.yy",},"order":9,},
