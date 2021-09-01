@@ -7,6 +7,7 @@
     {"id":{"name":"enmy_laser","path":"sprites/enmy_laser/enmy_laser.yy",},"order":7,},
     {"id":{"name":"enemy_1","path":"sprites/enemy_1/enemy_1.yy",},"order":9,},
     {"id":{"name":"enemy_2","path":"sprites/enemy_2/enemy_2.yy",},"order":11,},
+    {"id":{"name":"bounce_off_objects","path":"scripts/bounce_off_objects/bounce_off_objects.yy",},"order":7,},
     {"id":{"name":"explosion_2","path":"sprites/explosion_2/explosion_2.yy",},"order":13,},
     {"id":{"name":"explosion","path":"sprites/explosion/explosion.yy",},"order":15,},
     {"id":{"name":"s_laser","path":"sprites/s_laser/s_laser.yy",},"order":17,},
