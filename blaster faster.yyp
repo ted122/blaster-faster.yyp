@@ -28,6 +28,7 @@
     {"id":{"name":"bounce_off_screen_edge","path":"scripts/bounce_off_screen_edge/bounce_off_screen_edge.yy",},"order":1,},
     {"id":{"name":"create_right_laser","path":"scripts/create_right_laser/create_right_laser.yy",},"order":3,},
     {"id":{"name":"player_o","path":"objects/player_o/player_o.yy",},"order":1,},
+    {"id":{"name":"Object8","path":"objects/Object8/Object8.yy",},"order":24,},
     {"id":{"name":"enemy_alien","path":"objects/enemy_alien/enemy_alien.yy",},"order":3,},
     {"id":{"name":"enemy_ship","path":"objects/enemy_ship/enemy_ship.yy",},"order":5,},
     {"id":{"name":"player_power_up","path":"objects/player_power_up/player_power_up.yy",},"order":7,},
