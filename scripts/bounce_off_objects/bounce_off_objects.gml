@@ -8,3 +8,4 @@ if speed > _max_speed {
     speed = _max_speed;
     }
 }
+// acceleration is determend using the vareables from the obj ship and obj enemy ship.
