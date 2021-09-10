@@ -11,12 +11,13 @@ if (_thrust)  {
 	if (speed >max_speed) {
 	    speed = max_speed;	
 	}
-	var _offset = random_range(-4, 4);
-	var _length = -16;
-	var _x = x + lengthdir_x(_length, image_angle) + _offset; 
-	var _y = y+  lengthdir_y(_length, image_angle) + _offset;
-	
-	instance_create_layer(_x, _y, "Effects", explosion_obj);
+		var _offset = random_range(-4, 4);
+		var _length = -16;
+		var _x = x + lengthdir_x(_length, image_angle) + _offset; 
+		var _y = y+  lengthdir_y(_length, image_angle) + _offset;
+		repeat (4) {
+		instance_create_layer(_x, _y, "Effects", explosion_obj);
+	}
 } else {
     friction = friction_amount;
 }
