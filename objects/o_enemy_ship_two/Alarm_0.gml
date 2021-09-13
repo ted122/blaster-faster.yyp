@@ -14,3 +14,4 @@ if (_distance <= attack_range) {
 	alarm[0] = fire_rate;
 }
 
+// alarm used for the laser to find the player location and shows attack range
