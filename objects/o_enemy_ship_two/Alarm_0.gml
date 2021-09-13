@@ -11,6 +11,6 @@ if (_distance <= attack_range) {
 	_laser.speed = 2;
 	_laser.image_angle = _direction;
 	_laser.direction = _direction;
+	alarm[0] = fire_rate;
 }
 
-alarm[0] = fire_rate;
