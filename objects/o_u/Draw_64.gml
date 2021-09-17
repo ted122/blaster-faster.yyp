@@ -7,3 +7,4 @@ if (_player_ship != noone) {
 var _armor_x = 8;
 var _armor_y = 8;
 draw_sprite(armor1, _armor_amount, _armor_x, _armor_y); 
+// ui commands 
