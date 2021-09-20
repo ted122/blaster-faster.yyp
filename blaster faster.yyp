@@ -22,6 +22,7 @@
     {"id":{"name":"explode","path":"sounds/explode/explode.yy",},"order":3,},
     {"id":{"name":"hit","path":"sounds/hit/hit.yy",},"order":5,},
     {"id":{"name":"laser","path":"sounds/laser/laser.yy",},"order":7,},
+    {"id":{"name":"f_1","path":"fonts/f_1/f_1.yy",},"order":0,},
     {"id":{"name":"music","path":"sounds/music/music.yy",},"order":9,},
     {"id":{"name":"o_explosion_chunk","path":"objects/o_explosion_chunk/o_explosion_chunk.yy",},"order":14,},
     {"id":{"name":"o_enemy_laser","path":"objects/o_enemy_laser/o_enemy_laser.yy",},"order":15,},
