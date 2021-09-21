@@ -16,6 +16,7 @@
     {"id":{"name":"power_up","path":"sprites/power_up/power_up.yy",},"order":9,},
     {"id":{"name":"s_score","path":"sprites/s_score/s_score.yy",},"order":10,},
     {"id":{"name":"stars_1","path":"sprites/stars_1/stars_1.yy",},"order":11,},
+    {"id":{"name":"hit_enemy","path":"scripts/hit_enemy/hit_enemy.yy",},"order":9,},
     {"id":{"name":"stars_2","path":"sprites/stars_2/stars_2.yy",},"order":13,},
     {"id":{"name":"enemy_laser","path":"sounds/enemy_laser/enemy_laser.yy",},"order":1,},
     {"id":{"name":"fire_lasers","path":"scripts/fire_lasers/fire_lasers.yy",},"order":5,},
