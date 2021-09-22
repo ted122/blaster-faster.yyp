@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_u",
+  "name": "O_UI",
   "tags": [],
   "resourceType": "GMObject",
 }
